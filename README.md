@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: [Email](jonathanumana86@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love playing soccer!
+- ⚡ Fun fact: I love playing football⚽️!
 
