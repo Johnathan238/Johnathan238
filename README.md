@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a E-Commerce Website using React & Commercejs
+- 🔭 I’m currently working on a Check-List 
 - 🌱 I’m currently learning data structures & algorithms
 - 🤔 I’m looking for help with data structure & algorithms
 - 💬 Ask me about anything
